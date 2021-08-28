@@ -1,0 +1,13 @@
+{
+    "name": "david/dbinspector",
+    "type": "library",
+    "require": {
+        "doctrine/dbal": "^3.1"
+    },
+    "authors": [
+        {
+            "name": "David Bomba",
+            "email": "turbo124@gmail.com"
+        }
+    ]
+}
